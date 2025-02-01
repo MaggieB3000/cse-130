@@ -1,16 +1,17 @@
 # 1. Name:
 #      Margaret Binns
+
 # 2. Assignment Name:
 #      Lab 04: Monopoly
+
 # 3. Assignment Description:
-#      -describe what this program is meant to do-
+#      This program purpose is to decide whether or not a user is able to purchase and place a hotel on their property in the game monopoly. It goes over various variables such as available funds, current houses, and overall ownership of properties to figure out the answer.
+
 # 4. What was the hardest part? Be as specific as possible.
-#      Was it the syntax of Python?
-#      Was it an aspect of the problem you are to solve?
-#      Was it the instructions or any part of the problem definition?
-#      Was it the submission process?
+#      The hardest part for me was figuring out how to know whether the user has enough money or not becuase I'm not familiar with monopoly rules.
+
 # 5. How long did it take for you to complete the assignment?
-#      -total time in hours including reading the assignment and submitting the program-
+#      3 hours
 
 prompt_color_group = input ('Do you own all the green properties? (y/n)')
 
