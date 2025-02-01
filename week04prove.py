@@ -1,5 +1,5 @@
 # 1. Name:
-#      Margaret Binns test
+#      Margaret Binns
 # 2. Assignment Name:
 #      Lab 04: Monopoly
 # 3. Assignment Description:
@@ -32,7 +32,33 @@ if prompt_color_group == 'y':
 
                 if prompt_hotels > 0:
 
-                   pass
+                    total_money_needed = 0
+                    #figure out this part of the flow chart in chart 2
+
+                    prompt_cash = int(input('How much cash do you have to spend?'))
+
+                    if prompt_cash >= total_money_needed:
+                       
+                        prompt_houses = int(input('How many houses are there to purchase? '))
+
+                        if prompt_houses == 4:
+
+                            pass
+                            #pick up at point b
+
+                        else:
+
+                            #out: no houses
+                            print ('There are not enough houses available for purchase at this time.')
+
+
+
+
+
+                    else:
+                       
+                       #out: cash
+                       print ('You do not have sufficient funds to purchase a hotel at this time.')
 
                 else:
 
