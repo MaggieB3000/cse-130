@@ -1,5 +1,5 @@
 # 1. Name:
-#      Margaret Binns
+#      Margaret Binns test
 # 2. Assignment Name:
 #      Lab 04: Monopoly
 # 3. Assignment Description:
