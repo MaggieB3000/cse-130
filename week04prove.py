@@ -11,7 +11,7 @@
 #      The hardest part for me was figuring out how to know whether the user has enough money or not becuase I'm not familiar with monopoly rules.
 
 # 5. How long did it take for you to complete the assignment?
-#      3 hours
+#      4 hours
 
 prompt_color_group = input ('Do you own all the green properties? (y/n)')
 
