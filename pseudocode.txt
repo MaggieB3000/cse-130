@@ -1,0 +1,13 @@
+itemList <- []
+typeList <- []
+interationNum <- 0
+
+
+FOR item in itemList
+
+    interationNum <- interationNum + 1
+
+    IF typeList[interationNum] = todo
+
+        PUT item
+
